@@ -20,6 +20,11 @@
         ]
     },
     {
+        "Path": "deployment.markdown",
+        "Name": "Deployment Options",
+        "Mappings": []
+    },
+    {
         "Path": "setup-wizard.markdown",
         "Name": "Setup Wizard",
         "Mappings": []
